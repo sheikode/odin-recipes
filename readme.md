@@ -1,0 +1,1 @@
+estou aprendendo a usar o git. ja sei, com alguma ajuda: criar um novo diretório, clonar diretórios do github, navegar pelos meus diretórios, abrir e editar arquivos utilizando o terminal e o vscode etc
